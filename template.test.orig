@@ -1,0 +1,1 @@
+value: '{{ ssm_path("/dev/airflow/slack_notify_dev") }}'
